@@ -61,7 +61,7 @@ const About = () => {
               <p className="text-sm text-gray-500 dark:text-gray-500">Fev/2022 - Dez/2026 (Previsão)</p>
               <p className="mt-2 text-gray-700 dark:text-gray-300">
                 Cursando bacharelado em Engenharia de Software, com foco em desenvolvimento de
-                projetos FullStack, Gerenciamento de Projetos, Metódologia Ágil.
+                projetos FullStack, Gerenciamento de Projetos e Metódologia Ágil.
               </p>
             </div>
 
